@@ -4,6 +4,7 @@
 
 This repository contains the source code of the Next.js & React course of the Next JS module of the LabLuby JS Front-End track.
 
+### Sections
 - [01 - Getting Started](https://github.com/crislainesc/nextjs-course/tree/01-getting-started)
 - [02 - Optional: React Refresher](https://github.com/crislainesc/nextjs-course/tree/02-react-summary)
 - [03 - Pages & File-based Routing](https://github.com/crislainesc/nextjs-course/tree/03-file-based-routing)
